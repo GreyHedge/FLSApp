@@ -2,12 +2,16 @@
 
 To launch the app:
 
-- git clone https://github.com/GreyHedge/FLSApp.git
-- cd FLSApp
-- run yarn install
-- cd ios && pod install && cd ..
-- yarn ios
-- yarn android
+```
+
+git clone https://github.com/GreyHedge/FLSApp.git
+cd FLSApp
+run yarn install
+cd ios && pod install && cd ..
+yarn ios
+yarn android
+
+```
 
 Screens:
 
